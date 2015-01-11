@@ -7,7 +7,7 @@ Le projet SELTIC est l'acronyme de SEL : Système d'échange local et de TIC pou
 
 # Pour y participer
 
-Toutes âmes bienveillantes désirant participer à la conception d'un tel outil est la bienvenue.
+Toutes âmes bienveillantes désirant participer à la conception de cet outil est la bienvenue.
 
 ## Le Backlog
 
