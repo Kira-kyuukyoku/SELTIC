@@ -13,6 +13,9 @@ Toutes âmes bienveillantes désirant participer à la conception de cet outil e
 
 Sur Wafflee.io https://waffle.io/R4Zero/SELTIC
 
+## Le Wiki
+https://github.com/TheCause/SELTIC/wiki
+
 ## Le design cible
 Le design cible est celui réalisé par l'équipe "Grain de Sel" du workshop CIFACOM/HETIC
 
