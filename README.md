@@ -11,7 +11,7 @@ Toutes âmes bienveillantes désirant participer à la conception de cet outil e
 
 ## Le Backlog
 
-Ce qui reste à faire est sur Wafflee.io https://waffle.io/R4Zero/SELTIC
+Ce qui reste à faire est sur [Wafflee.io](https://waffle.io/TheCause/SELTIC)
 
 ## Le Wiki
 
