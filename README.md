@@ -15,8 +15,10 @@ Sur Wafflee.io https://waffle.io/R4Zero/SELTIC
 
 ## Le design cible
 Le design cible est celui réalisé par l'équipe "Grain de Sel" du workshop CIFACOM/HETIC
-https://github.com/R4Zero/SELTIC/blob/master/workshop.md. 
+
 <p>Template : https://github.com/R4Zero/SELTIC/tree/master/maquettes</p>
+
+<p>En savoir plus sur le workshop : https://github.com/R4Zero/SELTIC/blob/master/workshop.md.</p>
 
 ### Le Groupe Meet-up
 http://www.meetup.com/Paris-SELTIC-Meetup/
