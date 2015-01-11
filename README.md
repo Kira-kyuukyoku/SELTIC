@@ -1,6 +1,9 @@
-SELTIC : Système d'Échange Local - Technologies de l'Information et de la Communication.
+# SELTIC : Système d'Échange Local - Technologies de l'Information et de la Communication.
 
-Plateforme d'échange de services entre habitants des mondes numériques.
+Plateforme d'échange de services entre habitants des mondes numériques... Developpeurs, Designers, Growth-Hackers.
+
+## Le Groupe Meet-up
+http://www.meetup.com/Paris-SELTIC-Meetup/
 
 ## Le Backlog
 
