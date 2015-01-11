@@ -1,10 +1,7 @@
 # SELTIC
-# Système d'Échange Local - Technologies de l'Information et de la Communication.
+## Système d'Échange Local - Technologies de l'Information et de la Communication.
 
 Plateforme d'échange de services entre habitants des mondes numériques... Developpeurs, Designers, Growth-Hackers.
-
-## Le Groupe Meet-up
-http://www.meetup.com/Paris-SELTIC-Meetup/
 
 ## Le Backlog
 
@@ -13,6 +10,9 @@ Sur Wafflee.io https://waffle.io/R4Zero/SELTIC
 ## Le design cible
 Le design cible est celui réalisé par l'équipe "Grain de Sel" du workshop CIFACOM/HETIC.
 <p>Template : https://github.com/R4Zero/SELTIC/tree/master/maquettes</p>
+
+### Le Groupe Meet-up
+http://www.meetup.com/Paris-SELTIC-Meetup/
 
 ##Le Workshop CIFACOM / HETIC.
 
@@ -36,3 +36,10 @@ Cahier des charges : https://github.com/R4Zero/SELTIC/blob/master/cahier_des_cha
 * Designer & Developpeur : UY Oudam
 
 Cahier des charges : https://github.com/R4Zero/SELTIC/blob/master/SELTIC_Cahier-Des-Charges.pdf
+
+License
+----
+
+MIT
+
+**Free Software, Heaven Yeah!**
