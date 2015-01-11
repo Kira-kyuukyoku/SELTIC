@@ -4,11 +4,11 @@ Plateforme d'échange de services entre habitants des mondes numériques.
 
 ## Le Backlog
 
-[Sur Wafflee.io]:https://waffle.io/R4Zero/SELTIC
+Sur Wafflee.io https://waffle.io/R4Zero/SELTIC
 
 ## Le design cible
 Le design cible est celui réalisé par l'équipe "Grain de Sel" du workshop CIFACOM/HETIC.
-[Template]:https://github.com/R4Zero/SELTIC/tree/master/maquettes
+Template : https://github.com/R4Zero/SELTIC/tree/master/maquettes
 
 ##Le Workshop CIFACOM / HETIC.
 
@@ -21,7 +21,7 @@ Deux groupes se sont "affrontés" pendant 1 mois (juin 2014)
 * Ergonome & Developpeur Back : EMMANUEL GORRE
 * Developpeur Back : STEVEN GILBERT
 
-[Cahier des charges]:https://github.com/R4Zero/SELTIC/blob/master/cahier_des_charges.pdf
+Cahier des charges : https://github.com/R4Zero/SELTIC/blob/master/cahier_des_charges.pdf
 
 ### Equipe "Coco Corp".
 * Chef de projet: DUPIN Jessy
@@ -31,4 +31,4 @@ Deux groupes se sont "affrontés" pendant 1 mois (juin 2014)
 * Developpeur : BLEUSE Damien
 * Designer & Developpeur : UY Oudam
 
-[Cahier des charges]:https://github.com/R4Zero/SELTIC/blob/master/SELTIC_Cahier-Des-Charges.pdf
+Cahier des charges : https://github.com/R4Zero/SELTIC/blob/master/SELTIC_Cahier-Des-Charges.pdf
