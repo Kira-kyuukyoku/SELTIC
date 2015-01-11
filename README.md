@@ -1,6 +1,11 @@
 # SELTIC
-## Système d'Échange Local - Technologies de l'Information et de la Communication.
+## Plateforme d'échanges de services NTIC
 
+Plateforme d'entraide, collaborative, libre, Open-Source et au service des habitants des territoires Numérique : développeurs, designers, growth hackers etc... 
+
+Le projet SELTIC est l'acronyme de SEL : Système d'échange local et de TIC pour Technologies de l'information et de la communication.
+
+Toutes âmes bienveillantes désirant participer à la conception d'un tel outil est la bienvenue.
 Plateforme d'échange de services entre habitants des mondes numériques... Developpeurs, Designers, Growth-Hackers.
 
 ## Le Backlog
