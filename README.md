@@ -5,10 +5,10 @@ Plateforme d'entraide, collaborative, libre, Open-Source et au service des habit
 
 Le projet SELTIC est l'acronyme de SEL : Système d'échange local et de TIC pour Technologies de l'information et de la communication.
 
-Toutes âmes bienveillantes désirant participer à la conception d'un tel outil est la bienvenue.
-Plateforme d'échange de services entre habitants des mondes numériques... Developpeurs, Designers, Growth-Hackers.
-
 # Pour y participer
+
+Toutes âmes bienveillantes désirant participer à la conception d'un tel outil est la bienvenue.
+
 ## Le Backlog
 
 Sur Wafflee.io https://waffle.io/R4Zero/SELTIC
