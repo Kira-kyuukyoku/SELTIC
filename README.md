@@ -8,6 +8,7 @@ Le projet SELTIC est l'acronyme de SEL : Système d'échange local et de TIC pou
 Toutes âmes bienveillantes désirant participer à la conception d'un tel outil est la bienvenue.
 Plateforme d'échange de services entre habitants des mondes numériques... Developpeurs, Designers, Growth-Hackers.
 
+# Pour y participer
 ## Le Backlog
 
 Sur Wafflee.io https://waffle.io/R4Zero/SELTIC
@@ -18,6 +19,8 @@ Le design cible est celui réalisé par l'équipe "Grain de Sel" du workshop CIF
 
 ### Le Groupe Meet-up
 http://www.meetup.com/Paris-SELTIC-Meetup/
+
+----------------------------------------------------------
 
 ##Le Workshop CIFACOM / HETIC.
 
