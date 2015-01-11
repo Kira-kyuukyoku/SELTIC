@@ -15,7 +15,7 @@ Ce qui reste à faire est sur [Wafflee.io](https://waffle.io/TheCause/SELTIC)
 
 ## Le Wiki
 
-Pour en savoir plus et échanger : https://github.com/TheCause/SELTIC/wiki
+Pour en savoir plus et échanger sur le [wiki](https://github.com/TheCause/SELTIC/wiki)
 
 ### Le Groupe Meet-up
 http://www.meetup.com/Paris-SELTIC-Meetup/
