@@ -9,7 +9,7 @@ Deux groupes se sont "affrontés" pendant 1 mois (juin 2014)
 * Ergonome & Developpeur Back : EMMANUEL GORRE
 * Developpeur Back : STEVEN GILBERT
 
-Cahier des charges : https://github.com/R4Zero/SELTIC/blob/master/cahier_des_charges.pdf
+Cahier des charges : https://github.com/TheCause/SELTIC/tree/master/cahier_des_charges.pdf
 
 ### Equipe "Coco Corp".
 * Chef de projet: DUPIN Jessy
@@ -19,4 +19,4 @@ Cahier des charges : https://github.com/R4Zero/SELTIC/blob/master/cahier_des_cha
 * Developpeur : BLEUSE Damien
 * Designer & Developpeur : UY Oudam
 
-Cahier des charges : https://github.com/R4Zero/SELTIC/blob/master/SELTIC_Cahier-Des-Charges.pdf
+Cahier des charges : https://github.com/TheCause/SELTIC/tree/master/SELTIC_Cahier-Des-Charges.pdf
